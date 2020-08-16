@@ -1,6 +1,6 @@
-const Runtime = require('../core/Runtime');
-const Network = require('../core/Network');
-const trace = require('../core/trace');
+const Runtime = require('../lib/core/Runtime');
+const Network = require('../lib/core/Network');
+const trace = require('../lib/core/trace');
 
 const compA = {
   name: 'CompA',
